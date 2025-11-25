@@ -4,7 +4,7 @@ from pathlib import Path
 
 # ---------- Paths ----------
 BASE_DIR = Path(__file__).parent
-DATA_PATH = BASE_DIR / "data" / "resume.yml"
+DATA_PATH = BASE_DIR / "Data" / "resume.yml"
 ASSETS_DIR = BASE_DIR / "assets"
 
 
