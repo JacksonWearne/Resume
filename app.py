@@ -8,7 +8,7 @@ DATA_PATH = BASE_DIR / "data" / "resume.yml"
 ASSETS_DIR = BASE_DIR / "assets"
 
 
-# ---------- Helpers ----------
+# ----help----
 @st.cache_data
 def load_resume():
     with open(DATA_PATH, "r", encoding="utf-8") as f:
