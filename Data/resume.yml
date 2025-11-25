@@ -1,0 +1,68 @@
+name: Jackson Wearne
+title: Data & Analytics Specialist
+location: Atlanta, GA
+email: your.email@example.com
+website: https://yourwebsite.com
+linkedin: https://www.linkedin.com/in/yourprofile
+github: https://github.com/yourusername
+
+summary: >
+  Data-driven analyst with experience in construction analytics, sports data,
+  and Python-based dashboards. Passionate about turning messy data into
+  usable insights and visualizations.
+
+skills:
+  - name: Languages
+    items: [Python, SQL, DAX, M]
+  - name: Tools
+    items: [Power BI, Streamlit, Git, Jupyter]
+  - name: Domains
+    items: [Construction Analytics, Sports Analytics, Finance/Econ]
+
+experience:
+  - role: Data Scientist
+    company: Kahua
+    location: Alpharetta, GA
+    start: 2024
+    end: Present
+    bullets:
+      - Built analytics dashboards for construction owners using Power BI and SQL.
+      - Modeled complex project hierarchies and budget workflows.
+      - Automated data QA and ETL using Python.
+
+  - role: Analytics Intern
+    company: Example Company
+    location: Atlanta, GA
+    start: 2023
+    end: 2024
+    bullets:
+      - Analyzed sales and marketing performance using Python and Power BI.
+      - Designed automated reporting pipelines and executive dashboards.
+
+education:
+  - degree: B.A. in Economics
+    school: University of Georgia
+    location: Athens, GA
+    start: 2020
+    end: 2024
+    bullets:
+      - Focus on data analysis, statistics, and finance.
+      - Played competitive soccer and led sports analytics side projects.
+
+projects:
+  - name: College Basketball Analytics Hub
+    link: https://github.com/yourusername/college-basketball-analytics
+    bullets:
+      - Built Python pipelines to scrape, clean, and analyze NCAA and NAIA data.
+      - Created visual dashboards for player and team performance.
+
+  - name: Construction Owner Analytics Demo
+    link: https://github.com/yourusername/construction-analytics-demo
+    bullets:
+      - Modeled project budgets, milestones, and risk tracking.
+      - Designed executive dashboards with interactive visuals.
+
+interests:
+  - Sports analytics (football & soccer)
+  - Construction tech & project management
+  - Teaching data skills and building learning resources
